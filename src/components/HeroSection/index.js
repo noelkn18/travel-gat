@@ -8,7 +8,7 @@ function HeroSection() {
             <h1>Travel More</h1>
             <p>Plan your next trip today</p>
             <div className="hero-btns">
-                <Button>Get Started</Button>
+                <Button fontBig big primary>Get Started</Button>
 
             </div>
 
