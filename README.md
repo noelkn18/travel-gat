@@ -1,7 +1,6 @@
 # Gatsby Travel Website
 
-
-
+![escape-gatsbyproject](https://user-images.githubusercontent.com/52262312/100189627-80c5ef80-2ea1-11eb-9483-bef09c22644f.jpg)
 
 
 
